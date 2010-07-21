@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">PhotoShare</string>
+<string name="title">Enter an email address to send all of your photos to automatically</string>
+<string name="email">photoshareapp@gmail.com</string>
+<string name="enable">Enable Sharing</string>
+<string name="disable">Disable Sharing</string>
+<string name="watchedPath">/sdcard/DCIM/Camera/</string>
+</resources>
